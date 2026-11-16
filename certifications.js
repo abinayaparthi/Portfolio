@@ -32,7 +32,7 @@ const CERTIFICATIONS = [
     name: "Spring Data JPA with Boot",
     type: "Certification",
     issuer: "Infosys Springboard",
-    url: "assets/Infosys_SpringBoard.pdf"
+    url: "assets/resume/Infosys_SpringBoard.pdf"
 }
 ];
 
