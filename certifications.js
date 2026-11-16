@@ -27,7 +27,13 @@ const CERTIFICATIONS = [
     type: "Certification",
     issuer: "HackerRank",
     url: "https://www.hackerrank.com/certificates/81989dab93fb"
-  }
+  },
+   {
+    name: "Spring Data JPA with Boot",
+    type: "Certification",
+    issuer: "Infosys Springboard",
+    url: "assets/Infosys_SpringBoard.pdf"
+}
 ];
 
 function renderCertifications() {
